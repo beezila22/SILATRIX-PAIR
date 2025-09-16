@@ -20,7 +20,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
  //   let num = req.query.number;
-    async function MEGA_MD_PAIR_CODE() {
+    async function SILATRIX_MD_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -72,9 +72,9 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "lordmega~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, MEGA-MD User!* 👋🏻
+                        let desc = `*Hey there, SILATRIX-MD User!* 👋🏻
 
-Thanks for using *MEGA-MD* — your session has been successfully created!
+Thanks for using *SILATRIX-MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -83,23 +83,23 @@ Thanks for using *MEGA-MD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w
+https://whatsapp.com/channel/0029Vb6DeKwCHDygxt0RXh0L
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/Lawrence-bot-maker/MEGA-MD
+https://github.com/silatrix2/silatrix-md
 
 ——————
 
 > *© Powered by Lord Mega*
-for any help dm https://wa.me/256753679393 ✌🏻`;
+for any help dm https://wa.me/255789661031 ✌🏻`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "Ｍｅｇａ𓃵 -M D 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://cdn.ironman.my.id/i/5xtyu7.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w",
+title: "SILATRIX𓃵 -M D 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
+thumbnailUrl: "https://files.catbox.moe/16herr.jpeg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6DeKwCHDygxt0RXh0L",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -108,9 +108,9 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*Hey there, MEGA-MD User!* 👋🏻
+                            let desc = `*Hey there, SILATRIX-MD User!* 👋🏻
 
-Thanks for using *MEGA-MD* — your session has been successfully created!
+Thanks for using *SILATRIX-MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -119,11 +119,11 @@ Thanks for using *MEGA-MD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join my official WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w
+https://whatsapp.com/channel/0029Vb6DeKwCHDygxt0RXh0L
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/Lawrence-bot-maker/MEGA-MD
+https://github.com/silatrix2/silatrix-md
 
 > *© Powered by Lord Mega*
 for any help dm https://wa.me/256753679393 ✌🏻*`;
@@ -131,9 +131,9 @@ for any help dm https://wa.me/256753679393 ✌🏻*`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "Ｍｅｇａ𓃵 -M D 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
-thumbnailUrl: "https://cdn.ironman.my.id/i/5xtyu7.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w",
+title: "SILATRIX𓃵 -M D 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
+thumbnailUrl: "https://files.catbox.moe/mi50jn.jpeg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6DeKwCHDygxt0RXh0L",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
@@ -150,7 +150,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    MEGA_MD_PAIR_CODE();
+                    SILATRIX_MD_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -161,7 +161,7 @@ showAdAttribution: true
             }
         }
     }
-    await MEGA_MD_PAIR_CODE();
+    await SILATRIX_MD_PAIR_CODE();
 });
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
