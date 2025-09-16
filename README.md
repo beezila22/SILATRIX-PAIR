@@ -1,4 +1,4 @@
-# Mega-MD-Session-Generator
+# BEEZILA-MD-Session-Generator
 
 ## 📊 Visitor Counter
 
@@ -10,9 +10,9 @@
 
 ## 💡 Fork This Project
 
-[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/Lawrence-bot-maker/MEGA-MD/fork)
+[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/Lawrence-bot-maker/SILATRIX-PAIR/fork)
 
-Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web QR login.
+Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **SILA** cloud storage and a fast web QR login.
 
 > ⚠️ This is the **same code** used on my live site:  
 > 🔗 [Session Generator Website](https://new-session-2ag9.onrender.com/)  
@@ -58,7 +58,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/256753679393)
+📬 [`Contact on WhatsApp`](https://wa.me/256789661031)
 
 ---
 
