@@ -96,7 +96,7 @@ https://github.com/silatrix2/Silatrix-md
 
 ——————
 
-> *© Powered by Lord Mega*
+> *© Powered by Lord Sila*
 For any help reachout https://wa.me/255789661031. ✌🏻`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
@@ -132,13 +132,13 @@ https://github.com/silatrix2/Silatrix-md
 
 ——————
 
-> *© Powered by Lord Mega*
+> *© Powered by Lord Sila*
 For any help reachout https://wa.me/255789661031. ✌🏻`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "Ｍｅｇａ𓃵 -M D",
+title: "SILATRIX𓃵 -M D",
 thumbnailUrl: "https://files.catbox.moe/t1nljl.jpeg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6DeKwCHDygxt0RXh0L",
 mediaType: 2,
