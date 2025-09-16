@@ -91,7 +91,7 @@ https://github.com/silatrix2/silatrix-md
 
 ——————
 
-> *© Powered by Lord Mega*
+> *© Powered by Lord Sila*
 for any help dm https://wa.me/255789661031 ✌🏻`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
@@ -125,7 +125,7 @@ https://whatsapp.com/channel/0029Vb6DeKwCHDygxt0RXh0L
 Fork & explore the project on GitHub:  
 https://github.com/silatrix2/silatrix-md
 
-> *© Powered by Lord Mega*
+> *© Powered by Lord Sila*
 for any help dm https://wa.me/256753679393 ✌🏻*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
